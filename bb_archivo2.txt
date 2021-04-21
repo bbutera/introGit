@@ -1,1 +1,3 @@
 archivo 2
+Esta es la segunda linea hecha por Jrp
+Esta es la tercera linea hecha por Jrp
